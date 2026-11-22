@@ -1,4 +1,4 @@
-UNISCI DXF - versione di lavoro
+UNISCI DXF - prima versione
 
 Progetto Qt Widgets / qmake, C++17. L'interfaccia originale e' mantenuta.
 
